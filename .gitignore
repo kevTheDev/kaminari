@@ -5,6 +5,6 @@ Gemfile.lock
 gemfiles/*.lock
 coverage/*
 pkg/*
-
+.ruby-version
 doc
 log
